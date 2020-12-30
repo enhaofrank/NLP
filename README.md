@@ -11,3 +11,11 @@
 2.[新词发现](https://blog.csdn.net/weixin_43378396/article/details/103848628)  
 3.["新词发现"算法探讨与优化-SmoothNLP](https://zhuanlan.zhihu.com/p/80385615)  
 4.[重新写了之前的新词发现算法：更快更好的新词发现](https://spaces.ac.cn/archives/6920)  
+
+## 实体词抽取
+
+
+## 文本分类
+
+## 舆情分析
+
