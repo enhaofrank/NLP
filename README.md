@@ -18,6 +18,8 @@
 1.[关键词提取的几种常用方法总结以及代码实现](https://www.cnblogs.com/enhaofrank/p/13972754.html)
 
 ## 文本分类
+1.[NLP - 15 分钟搭建中文文本分类模型](https://eliyar.biz/nlp_chinese_text_classification_in_15mins/)
+2.[NLP之BERT中文文本分类超详细教程](https://blog.csdn.net/qq_20989105/article/details/89492442)
 
 ## 舆情分析
 
