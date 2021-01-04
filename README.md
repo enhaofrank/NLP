@@ -13,6 +13,7 @@
 4.[重新写了之前的新词发现算法：更快更好的新词发现](https://spaces.ac.cn/archives/6920)  
 
 ## 实体词抽取
+1.[信息抽取](https://blog.csdn.net/qq_27590277/article/details/106263861)
 
 ## 关键词提取
 1.[关键词提取的几种常用方法总结以及代码实现](https://www.cnblogs.com/enhaofrank/p/13972754.html)  
