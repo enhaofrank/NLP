@@ -16,10 +16,12 @@
 
 ## 关键词提取
 1.[关键词提取的几种常用方法总结以及代码实现](https://www.cnblogs.com/enhaofrank/p/13972754.html)
+2.[NLP关键词提取方法总结及实现](https://blog.csdn.net/asialee_bird/article/details/96454544)
 
 ## 文本分类
 1.[NLP - 15 分钟搭建中文文本分类模型](https://eliyar.biz/nlp_chinese_text_classification_in_15mins/)  
 2.[NLP之BERT中文文本分类超详细教程](https://blog.csdn.net/qq_20989105/article/details/89492442)  
 
 ## 舆情分析
+舆情分析 或情感分析， 在自然语言处理领域是个主要的应用方向， 常见的情况是为某个公司或某个产品，根据舆情数据，分析出消费者的情感倾向，比如：根据商品评论数据（比如华为P9），分析用户情感的倾向，正，负，中性。
 
