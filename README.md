@@ -15,7 +15,7 @@
 ## 实体词抽取
 
 ## 关键词提取
-1.[关键词提取的几种常用方法总结以及代码实现](https://www.cnblogs.com/enhaofrank/p/13972754.html)
+1.[关键词提取的几种常用方法总结以及代码实现](https://www.cnblogs.com/enhaofrank/p/13972754.html)  
 2.[NLP关键词提取方法总结及实现](https://blog.csdn.net/asialee_bird/article/details/96454544)
 
 ## 文本分类
