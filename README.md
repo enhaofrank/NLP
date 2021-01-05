@@ -40,3 +40,7 @@
 1.[NLP自然语言处理中的文本相似度](https://blog.csdn.net/sinat_26811377/article/details/100528834)  
 2.[文本相似度计算与文本匹配问题](https://blog.csdn.net/sdu_hao/article/details/95958293)  
 3.[漫谈：机器学习中距离和相似性度量方法](https://www.cnblogs.com/daniel-D/p/3244718.html)  
+
+
+## 词性标注
+1.[自然语言处理基础技术之词性标注](https://zhuanlan.zhihu.com/p/50817277)
