@@ -28,6 +28,8 @@
 1.[舆情情感分析](https://www.cnblogs.com/enhaofrank/p/14001021.html)  
 
 ## 文本聚类
+1.[NLP之文本聚类](https://www.jianshu.com/p/68a6b32913eb?from=singlemessage)  
+2.[文本聚类教程](https://blog.csdn.net/xiaoxik/article/details/78742308)
 
 
 
